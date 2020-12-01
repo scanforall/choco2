@@ -1,0 +1,12 @@
+.benefits-section {
+    position: relative;
+    background: url() left top 57% no-repeat;
+
+    & ::before {
+        content: url();
+        position: absolute;
+        bottom: -80px;
+        left: 0;
+    }
+}
+
